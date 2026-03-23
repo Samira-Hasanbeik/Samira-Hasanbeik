@@ -1,4 +1,4 @@
-                                                ## Hi 👋, I'm Samira
+## Hi 👋, I'm Samira
 
 BI Analyst • Power BI Enthusiast living in Germany <img src="https://flagcdn.com/w20/de.png" width="20"/>
 
