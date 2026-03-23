@@ -2,7 +2,9 @@
 
 BI Analyst • Power BI Enthusiast living in Germany <img src="https://flagcdn.com/w20/de.png" width="20"/>
 
-**Samira-Hasanbeik/Samira-Hasanbeik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Data Analyst with a strong interest in ✨Power BI, data visualization, and transforming data into actionable insights✨.
+
 
 Here are some ideas to get you started:
 
