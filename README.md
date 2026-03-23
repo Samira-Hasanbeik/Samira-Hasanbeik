@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Samira
 
-BI Analyst • Power BI Enthusiast living in Germany ![Germany](https://flagcdn.com/w40/de.png)
+BI Analyst • Power BI Enthusiast living in Germany <img src="https://flagcdn.com/w20/de.png" width="20"/>
 
 **Samira-Hasanbeik/Samira-Hasanbeik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
