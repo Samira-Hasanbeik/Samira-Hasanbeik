@@ -45,8 +45,6 @@
   </a>
   <a href="https://github.com/Samira-Hasanbeik">
     <img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github"/>
-  </a>
-</p>
  </a>
  <a href="https://www.xing.com/profile/Samira_HasanBeik032824/web_profiles?nwt_nav=profile">
     <img src="https://img.shields.io/badge/XING-006567?style=for-the-badge&logo=xing"/>
