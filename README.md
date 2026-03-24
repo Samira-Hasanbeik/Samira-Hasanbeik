@@ -6,9 +6,8 @@ BI Analyst • Power BI Enthusiast living in Germany <img src="https://flagcdn.c
 
 
 👀 I’m interested in data analysis and data science
-🔭 I’m currently working Python
-- 🌱 I’m currently learning Mashine Lerning
-- ✨ strong interest in Power BI , data visualization
+🌱 I’m currently learning Mashine Lerning
+✨ strong interest in Power BI , data visualization
   
 
 
