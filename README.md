@@ -1,13 +1,59 @@
-## Hi 👋, I'm Samira Hasanbeik
+<h1 align="center">Hi 👋, I'm Samira Hasanbeik</h1>
+<h3 align="center">BI & Data Analyst | Data Science Student</h3>
 
-BI Analyst • Power BI Enthusiast living in Germany <img src="https://flagcdn.com/w20/de.png" width="20"/>
+---
 
+## 💡 About Me
+- 🎓 Master’s Student in Data Science (Germany)
+- 📊 Passionate about turning data into actionable insights
+- 🧠 Interested in Machine Learning & Data Engineering
+- 📍 Based in Frankfurt am Main
 
+---
 
+## 🛠️ Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/Power%20BI-yellow?style=for-the-badge&logo=powerbi"/>
+  <img src="https://img.shields.io/badge/Tableau-blue?style=for-the-badge&logo=tableau"/>
+  <img src="https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel"/>
+  <img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy"/>
+</p>
 
-- 👀 I’m interested in data analysis and data science
-- 🌱 I’m currently learning Mashine Lerning
-- ✨ strong interest in Power BI , data visualization
+---
+
+## 📂 Projects
+- 🔍 **News Data Analysis (COVID Coverage)**
+  - Data extraction from HTML + PostgreSQL database design
+  - Analysis of media trends and article frequency
+
+- 📊 **Business Intelligence Dashboard**
+  - Built dashboards using Power BI
+  - Data modeling and visualization for decision-making
+
+---
+
+## 🤝 Let's Connect
+<p>
+  <a href="https://www.linkedin.com/in/YOUR-LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:YOUR-EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://github.com/Samira-Hasanbeik">
+    <img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Samira-Hasanbeik&show_icons=true&theme=default"/>
+</p>
   
 
 
