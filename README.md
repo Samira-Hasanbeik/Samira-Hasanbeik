@@ -11,15 +11,41 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tools & Technologies
+
+### 💻 Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
   <img src="https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=postgresql"/>
-  <img src="https://img.shields.io/badge/Power%20BI-yellow?style=for-the-badge&logo=powerbi"/>
-  <img src="https://img.shields.io/badge/Tableau-blue?style=for-the-badge&logo=tableau"/>
-  <img src="https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5"/>
+</p>
+
+---
+
+### 📚 Libraries & Frameworks
+<p>
   <img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas"/>
   <img src="https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikitlearn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow"/>
+  <img src="https://img.shields.io/badge/DAX-green?style=for-the-badge"/>
+</p>
+
+---
+
+### 🛠️ Tools
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-yellow?style=for-the-badge&logo=powerbi"/>
+  <img src="https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel"/>
+  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/SQLite-lightgrey?style=for-the-badge&logo=sqlite"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-darkblue?style=for-the-badge&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter"/>
+  <img src="https://img.shields.io/badge/Anaconda-green?style=for-the-badge&logo=anaconda"/>
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode"/>
 </p>
 
 ---
