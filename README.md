@@ -18,7 +18,6 @@
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
   <img src="https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=postgresql"/>
   <img src="https://img.shields.io/badge/R-blue?style=for-the-badge&logo=r"/>
-  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio"/>
 </p>
 
 ---
